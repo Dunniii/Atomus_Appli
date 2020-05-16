@@ -1,7 +1,5 @@
 {
   "count":118,
-  "next":"https://github.com/Dunniii/Atomus_Appli/edit/master/api_atome.json",
-  "previous": null,
   "results":
 [
   {
@@ -13,7 +11,7 @@
     "point":"\u2212252,9\u00a0\u00b0C",
     "date_de":1766,
     "decouvreurs":"Cavendish",
-    "0":null
+    
   },
   {
     "numero":2,
@@ -24,7 +22,7 @@
     "point":"\u2212268,9\u00a0\u00b0C",
     "date_de":1895,
     "decouvreurs":"Ramsay\u00a0et\u00a0Cleve",
-    "0":null
+ 
   },
   {
     "numero":3,
@@ -35,7 +33,7 @@
     "point":"1\u00a0317\u00a0\u00b0C",
     "date_de":1817,
     "decouvreurs":"Arfvedson",
-    "0":null
+   
   },
   {
     "numero":4,
@@ -46,7 +44,7 @@
     "point":"2\u00a0970\u00a0\u00b0C",
     "date_de":1797,
     "decouvreurs":"Vauquelin",
-    "0":null
+  
   },
   {
     "numero":5,
@@ -57,7 +55,7 @@
     "point":"2\u00a0550\u00a0\u00b0C",
     "date_de":1808,
     "decouvreurs":"Davy\u00a0et\u00a0Gay-Lussac",
-    "0":null
+    
   },
   {
     "numero":6,
@@ -68,7 +66,7 @@
     "point":"4\u00a0827\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+   
   },
   {
     "numero":7,
@@ -79,7 +77,7 @@
     "point":"\u2212195,8\u00a0\u00b0C",
     "date_de":1772,
     "decouvreurs":"Rutherford",
-    "0":null
+  
   },
   {
     "numero":8,
@@ -90,7 +88,7 @@
     "point":"\u2212182,9\u00a0\u00b0C",
     "date_de":1774,
     "decouvreurs":"Priestley\u00a0et\u00a0Scheele",
-    "0":null
+    
   },
   {
     "numero":9,
@@ -101,7 +99,7 @@
     "point":"\u2212188,1\u00a0\u00b0C",
     "date_de":1886,
     "decouvreurs":"Moissan",
-    "0":null
+    
   },
   {
     "numero":10,
@@ -112,7 +110,7 @@
     "point":"\u2212246,1\u00a0\u00b0C",
     "date_de":1898,
     "decouvreurs":"Ramsay\u00a0et\u00a0Travers",
-    "0":null
+   
   },
   {
     "numero":11,
@@ -123,7 +121,7 @@
     "point":"892\u00a0\u00b0C",
     "date_de":1807,
     "decouvreurs":"Davy",
-    "0":null
+    
   },
   {
     "numero":12,
@@ -134,7 +132,7 @@
     "point":"1\u00a0107\u00a0\u00b0C",
     "date_de":1755,
     "decouvreurs":"Black",
-    "0":null
+    
   },
   {
     "numero":13,
@@ -145,7 +143,7 @@
     "point":"2\u00a0467\u00a0\u00b0C",
     "date_de":1825,
     "decouvreurs":"\u00d8rsted",
-    "0":null
+    
   },
   {
     "numero":14,
@@ -156,7 +154,7 @@
     "point":"2\u00a0355\u00a0\u00b0C",
     "date_de":1824,
     "decouvreurs":"Berzelius",
-    "0":null
+    
   },
   {
     "numero":15,
@@ -167,7 +165,7 @@
     "point":"280\u00a0\u00b0C\u00a0(P4)",
     "date_de":1669,
     "decouvreurs":"Brandt",
-    "0":null
+    
   },
   {
     "numero":16,
@@ -178,7 +176,7 @@
     "point":"444,7\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+    
   },
   {
     "numero":17,
@@ -189,7 +187,7 @@
     "point":"\u221234,6\u00a0\u00b0C",
     "date_de":1774,
     "decouvreurs":"Scheele",
-    "0":null
+    
   },
   {
     "numero":18,
@@ -200,7 +198,7 @@
     "point":"\u2212185,9\u00a0\u00b0C",
     "date_de":1894,
     "decouvreurs":"Ramsay\u00a0et\u00a0Rayleigh",
-    "0":null
+    
   },
   {
     "numero":19,
@@ -211,7 +209,7 @@
     "point":"774\u00a0\u00b0C",
     "date_de":1807,
     "decouvreurs":"Davy",
-    "0":null
+   
   },
   {
     "numero":20,
@@ -222,7 +220,7 @@
     "point":"1\u00a0487\u00a0\u00b0C",
     "date_de":1808,
     "decouvreurs":"Davy",
-    "0":null
+    
   },
   {
     "numero":21,
@@ -233,7 +231,7 @@
     "point":"2\u00a0832\u00a0\u00b0C",
     "date_de":1879,
     "decouvreurs":"Nilson",
-    "0":null
+    
   },
   {
     "numero":22,
@@ -244,7 +242,7 @@
     "point":"3\u00a0260\u00a0\u00b0C",
     "date_de":1791,
     "decouvreurs":"Gregor et Klaproth",
-    "0":null
+    
   },
   {
     "numero":23,
@@ -255,7 +253,7 @@
     "point":"3\u00a0380\u00a0\u00b0C",
     "date_de":1801,
     "decouvreurs":"del Rio",
-    "0":null
+    
   },
   {
     "numero":24,
@@ -266,7 +264,7 @@
     "point":"2\u00a0482\u00a0\u00b0C",
     "date_de":1797,
     "decouvreurs":"Vauquelin",
-    "0":null
+    
   },
   {
     "numero":25,
@@ -277,7 +275,7 @@
     "point":"2\u00a0097\u00a0\u00b0C",
     "date_de":1774,
     "decouvreurs":"Gahn",
-    "0":null
+   
   },
   {
     "numero":26,
@@ -288,7 +286,7 @@
     "point":"2\u00a0750\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+   
   },
   {
     "numero":27,
@@ -299,7 +297,7 @@
     "point":"2\u00a0870\u00a0\u00b0C",
     "date_de":1735,
     "decouvreurs":"Brandt",
-    "0":null
+    
   },
   {
     "numero":28,
@@ -310,7 +308,7 @@
     "point":"2\u00a0732\u00a0\u00b0C",
     "date_de":1751,
     "decouvreurs":"Cronstedt",
-    "0":null
+    
   },
   {
     "numero":29,
@@ -321,7 +319,7 @@
     "point":"2\u00a0595\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+   
   },
   {
     "numero":30,
@@ -332,7 +330,7 @@
     "point":"907\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+   
   },
   {
     "numero":31,
@@ -343,7 +341,7 @@
     "point":"2\u00a0403\u00a0\u00b0C",
     "date_de":1875,
     "decouvreurs":"Lecoq de Boisbaudran",
-    "0":null
+    
   },
   {
     "numero":32,
@@ -354,7 +352,7 @@
     "point":"2\u00a0830\u00a0\u00b0C",
     "date_de":1886,
     "decouvreurs":"Winkler",
-    "0":null
+   
   },
   {
     "numero":33,
@@ -365,7 +363,7 @@
     "point":"sublimation",
     "date_de":"ca\u00a01250",
     "decouvreurs":"Albertus Magnus",
-    "0":null
+    
   },
   {
     "numero":34,
@@ -376,7 +374,7 @@
     "point":"685\u00a0\u00b0C",
     "date_de":1817,
     "decouvreurs":"Berzelius",
-    "0":null
+    
   },
   {
     "numero":35,
@@ -387,7 +385,7 @@
     "point":"58,8\u00a0\u00b0C",
     "date_de":1826,
     "decouvreurs":"Balard",
-    "0":null
+    
   },
   {
     "numero":36,
@@ -398,7 +396,7 @@
     "point":"\u2212152,3\u00a0\u00b0C",
     "date_de":1898,
     "decouvreurs":"Ramsay\u00a0et\u00a0Travers",
-    "0":null
+    
   },
   {
     "numero":37,
@@ -420,7 +418,7 @@
     "point":"1\u00a0384\u00a0\u00b0C",
     "date_de":1790,
     "decouvreurs":"Crawford",
-    "0":null
+    
   },
   {
     "numero":39,
@@ -431,7 +429,7 @@
     "point":"3\u00a0337\u00a0\u00b0C",
     "date_de":1794,
     "decouvreurs":"Gadolin",
-    "0":null
+   
   },
   {
     "numero":40,
@@ -442,7 +440,7 @@
     "point":"4\u00a0377\u00a0\u00b0C",
     "date_de":1789,
     "decouvreurs":"Klaproth",
-    "0":null
+   
   },
   {
     "numero":41,
@@ -453,7 +451,7 @@
     "point":"4\u00a0927\u00a0\u00b0C",
     "date_de":1801,
     "decouvreurs":"Hatchet",
-    "0":null
+   
   },
   {
     "numero":42,
@@ -464,7 +462,7 @@
     "point":"5\u00a0560\u00a0\u00b0C",
     "date_de":1778,
     "decouvreurs":"Scheele",
-    "0":null
+   
   },
   {
     "numero":43,
@@ -475,7 +473,7 @@
     "point":"5\u00a0030\u00a0\u00b0C",
     "date_de":1937,
     "decouvreurs":"Perrier et\u00a0Segr\u00e8",
-    "0":null
+    
   },
   {
     "numero":44,
@@ -486,7 +484,7 @@
     "point":"3\u00a0900\u00a0\u00b0C",
     "date_de":1844,
     "decouvreurs":"Claus",
-    "0":null
+    
   },
   {
     "numero":45,
@@ -497,7 +495,7 @@
     "point":"3\u00a0727\u00a0\u00b0C",
     "date_de":1803,
     "decouvreurs":"Wollaston",
-    "0":null
+    
   },
   {
     "numero":46,
@@ -508,7 +506,7 @@
     "point":"3\u00a0140\u00a0\u00b0C",
     "date_de":1803,
     "decouvreurs":"Wollaston",
-    "0":null
+    
   },
   {
     "numero":47,
@@ -519,7 +517,7 @@
     "point":"2\u00a0212\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+    
   },
   {
     "numero":48,
@@ -530,7 +528,7 @@
     "point":"765\u00a0\u00b0C",
     "date_de":1817,
     "decouvreurs":"Stromeyer et Hermann",
-    "0":null
+    
   },
   {
     "numero":49,
@@ -541,7 +539,7 @@
     "point":"2\u00a0080\u00a0\u00b0C",
     "date_de":1863,
     "decouvreurs":"Reich et Richter",
-    "0":null
+    
   },
   {
     "numero":50,
@@ -552,7 +550,7 @@
     "point":"2\u00a0270\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+    
   },
   {
     "numero":51,
@@ -563,7 +561,7 @@
     "point":"1\u00a0750\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+    
   },
   {
     "numero":52,
@@ -574,7 +572,7 @@
     "point":"990\u00a0\u00b0C",
     "date_de":1782,
     "decouvreurs":"von Reichenstein",
-    "0":null
+    
   },
   {
     "numero":53,
@@ -585,7 +583,7 @@
     "point":"184,4\u00a0\u00b0C",
     "date_de":1811,
     "decouvreurs":"Courtois",
-    "0":null
+    
   },
   {
     "numero":54,
@@ -596,7 +594,7 @@
     "point":"\u2212107\u00a0\u00b0C",
     "date_de":1898,
     "decouvreurs":"Ramsay\u00a0et\u00a0Travers",
-    "0":null
+    
   },
   {
     "numero":55,
@@ -607,7 +605,7 @@
     "point":"690\u00a0\u00b0C",
     "date_de":1860,
     "decouvreurs":"Kirchhoff\u00a0et\u00a0Bunsen",
-    "0":null
+    
   },
   {
     "numero":56,
@@ -618,7 +616,7 @@
     "point":"1\u00a0640\u00a0\u00b0C",
     "date_de":1808,
     "decouvreurs":"Davy",
-    "0":null
+    
   },
   {
     "numero":57,
@@ -629,7 +627,7 @@
     "point":"3\u00a0454\u00a0\u00b0C",
     "date_de":1839,
     "decouvreurs":"Mosander",
-    "0":null
+    
   },
   {
     "numero":58,
@@ -640,7 +638,7 @@
     "point":"3\u00a0257\u00a0\u00b0C",
     "date_de":1803,
     "decouvreurs":"Hisinger\u00a0et\u00a0Berzelius",
-    "0":null
+    
   },
   {
     "numero":59,
@@ -651,7 +649,7 @@
     "point":"3\u00a0212\u00a0\u00b0C",
     "date_de":1895,
     "decouvreurs":"von Welsbach",
-    "0":null
+    
   },
   {
     "numero":60,
@@ -662,7 +660,7 @@
     "point":"3\u00a0127\u00a0\u00b0C",
     "date_de":1895,
     "decouvreurs":"von Welsbach",
-    "0":null
+    
   },
   {
     "numero":61,
@@ -673,7 +671,7 @@
     "point":"2\u00a0730\u00a0\u00b0C",
     "date_de":1945,
     "decouvreurs":"Marinsky et Glendenin",
-    "0":null
+    
   },
   {
     "numero":62,
@@ -684,7 +682,7 @@
     "point":"1\u00a0778\u00a0\u00b0C",
     "date_de":1879,
     "decouvreurs":"Lecoq de Boisbaudran",
-    "0":null
+    
   },
   {
     "numero":63,
@@ -695,7 +693,7 @@
     "point":"1\u00a0597\u00a0\u00b0C",
     "date_de":1901,
     "decouvreurs":"Demar\u00e7ay",
-    "0":null
+    
   },
   {
     "numero":64,
@@ -706,7 +704,7 @@
     "point":"3\u00a0233\u00a0\u00b0C",
     "date_de":1880,
     "decouvreurs":"de Marignac",
-    "0":null
+    
   },
   {
     "numero":65,
@@ -717,7 +715,7 @@
     "point":"3\u00a0041\u00a0\u00b0C",
     "date_de":1843,
     "decouvreurs":"Mosander",
-    "0":null
+    
   },
   {
     "numero":66,
@@ -728,7 +726,7 @@
     "point":"2\u00a0335\u00a0\u00b0C",
     "date_de":1886,
     "decouvreurs":"Lecoq de Boisbaudran",
-    "0":null
+    
   },
   {
     "numero":67,
@@ -739,7 +737,7 @@
     "point":"2\u00a0720\u00a0\u00b0C",
     "date_de":1879,
     "decouvreurs":"Cleve",
-    "0":null
+    
   },
   {
     "numero":68,
@@ -750,7 +748,7 @@
     "point":"2\u00a0510\u00a0\u00b0C",
     "date_de":1842,
     "decouvreurs":"Mosander",
-    "0":null
+    
   },
   {
     "numero":69,
@@ -761,7 +759,7 @@
     "point":"1\u00a0727\u00a0\u00b0C",
     "date_de":1879,
     "decouvreurs":"Cleve",
-    "0":null
+    
   },
   {
     "numero":70,
@@ -772,7 +770,7 @@
     "point":"1\u00a0193\u00a0\u00b0C",
     "date_de":1878,
     "decouvreurs":"de Marignac",
-    "0":null
+    
   },
   {
     "numero":71,
@@ -783,7 +781,7 @@
     "point":"3\u00a0315\u00a0\u00b0C",
     "date_de":1907,
     "decouvreurs":"Urbain et\u00a0von Welsbach",
-    "0":null
+    
   },
   {
     "numero":72,
@@ -794,7 +792,7 @@
     "point":"5\u00a0400\u00a0\u00b0C",
     "date_de":1923,
     "decouvreurs":"Coster et\u00a0George de Hevesy",
-    "0":null
+    
   },
   {
     "numero":73,
@@ -805,7 +803,7 @@
     "point":"5\u00a0425\u00a0\u00b0C",
     "date_de":1802,
     "decouvreurs":"Ekeberg",
-    "0":null
+    
   },
   {
     "numero":74,
@@ -816,7 +814,7 @@
     "point":"5\u00a0927\u00a0\u00b0C",
     "date_de":1783,
     "decouvreurs":"Fausto de Elh\u00fayar\u00a0et\u00a0Juan Jos\u00e9 de Elh\u00fayar",
-    "0":null
+    
   },
   {
     "numero":75,
@@ -827,7 +825,7 @@
     "point":"5\u00a0627\u00a0\u00b0C",
     "date_de":1925,
     "decouvreurs":"Noddack,\u00a0Tacke\u00a0et Berg",
-    "0":null
+    
   },
   {
     "numero":76,
@@ -838,7 +836,7 @@
     "point":"5\u00a0027\u00a0\u00b0C",
     "date_de":1803,
     "decouvreurs":"Tennant",
-    "0":null
+    
   },
   {
     "numero":77,
@@ -849,7 +847,7 @@
     "point":"4\u00a0130\u00a0\u00b0C",
     "date_de":1803,
     "decouvreurs":"Tennant et Andere",
-    "0":null
+    
   },
   {
     "numero":78,
@@ -860,7 +858,7 @@
     "point":"3\u00a0827\u00a0\u00b0C",
     "date_de":1557,
     "decouvreurs":"Scaliger",
-    "0":null
+    
   },
   {
     "numero":79,
@@ -871,7 +869,7 @@
     "point":"2\u00a0940\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+    
   },
   {
     "numero":80,
@@ -882,7 +880,7 @@
     "point":"356,6\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+    
   },
   {
     "numero":81,
@@ -893,7 +891,7 @@
     "point":"1\u00a0457\u00a0\u00b0C",
     "date_de":1861,
     "decouvreurs":"Crookes",
-    "0":null
+    
   },
   {
     "numero":82,
@@ -904,7 +902,7 @@
     "point":"1\u00a0740\u00a0\u00b0C",
     "date_de":"inconnue",
     "decouvreurs":"inconnu",
-    "0":null
+    
   },
   {
     "numero":83,
@@ -915,7 +913,7 @@
     "point":"1\u00a0560\u00a0\u00b0C",
     "date_de":1540,
     "decouvreurs":"Agricola",
-    "0":null
+    
   },
   {
     "numero":84,
@@ -926,7 +924,7 @@
     "point":"962\u00a0\u00b0C",
     "date_de":1898,
     "decouvreurs":"Curie (Marie\u00a0et\u00a0Pierre)",
-    "0":null
+    
   },
   {
     "numero":85,
@@ -937,7 +935,7 @@
     "point":"337\u00a0\u00b0C",
     "date_de":1940,
     "decouvreurs":"Corson,\u00a0MacKenzie\u00a0et\u00a0Segr\u00e8",
-    "0":null
+    
   },
   {
     "numero":86,
@@ -948,7 +946,7 @@
     "point":"\u221261,8\u00a0\u00b0C",
     "date_de":1900,
     "decouvreurs":"Dorn",
-    "0":null
+    
   },
   {
     "numero":87,
@@ -959,7 +957,7 @@
     "point":"677\u00a0\u00b0C",
     "date_de":1939,
     "decouvreurs":"Perey",
-    "0":null
+    
   },
   {
     "numero":88,
@@ -970,7 +968,7 @@
     "point":"1\u00a0140\u00a0\u00b0C",
     "date_de":1898,
     "decouvreurs":"Curie (Marie\u00a0et\u00a0Pierre)",
-    "0":null
+    
   },
   {
     "numero":89,
@@ -981,7 +979,7 @@
     "point":"3\u00a0197\u00a0\u00b0C",
     "date_de":1899,
     "decouvreurs":"Debierne",
-    "0":null
+    
   },
   {
     "numero":90,
@@ -992,7 +990,7 @@
     "point":"4\u00a0787\u00a0\u00b0C",
     "date_de":1829,
     "decouvreurs":"Berzelius",
-    "0":null
+    
   },
   {
     "numero":91,
@@ -1003,7 +1001,7 @@
     "point":"4\u00a0030\u00a0\u00b0C",
     "date_de":1917,
     "decouvreurs":"Soddy, Cranston, Meitner et Hahn",
-    "0":null
+    
   },
   {
     "numero":92,
@@ -1014,7 +1012,7 @@
     "point":"3\u00a0818\u00a0\u00b0C",
     "date_de":1789,
     "decouvreurs":"Klaproth",
-    "0":null
+    
   },
   {
     "numero":93,
@@ -1025,7 +1023,7 @@
     "point":"3\u00a0902\u00a0\u00b0C",
     "date_de":1940,
     "decouvreurs":"McMillan et Abelson",
-    "0":null
+   
   },
   {
     "numero":94,
@@ -1036,7 +1034,7 @@
     "point":"3\u00a0327\u00a0\u00b0C",
     "date_de":1940,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":95,
@@ -1047,7 +1045,7 @@
     "point":"2\u00a0607\u00a0\u00b0C",
     "date_de":1944,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":96,
@@ -1058,7 +1056,7 @@
     "point":null,
     "date_de":1944,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":97,
@@ -1069,7 +1067,7 @@
     "point":null,
     "date_de":1949,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":98,
@@ -1080,7 +1078,7 @@
     "point":null,
     "date_de":1950,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":99,
@@ -1091,7 +1089,7 @@
     "point":null,
     "date_de":1952,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":100,
@@ -1102,7 +1100,7 @@
     "point":null,
     "date_de":1952,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":101,
@@ -1113,7 +1111,7 @@
     "point":null,
     "date_de":1955,
     "decouvreurs":"Seaborg",
-    "0":null
+    
   },
   {
     "numero":102,
@@ -1124,7 +1122,7 @@
     "point":null,
     "date_de":"1958\/66",
     "decouvreurs":"Flerow ou Seaborg",
-    "0":null
+    
   },
   {
     "numero":103,
@@ -1135,7 +1133,7 @@
     "point":null,
     "date_de":"1961\/71",
     "decouvreurs":"Flerow ou Ghiorso",
-    "0":null
+    
   },
   {
     "numero":104,
@@ -1146,7 +1144,7 @@
     "point":null,
     "date_de":"1964\/69",
     "decouvreurs":"Flerow ou Ghiorso",
-    "0":null
+    
   },
   {
     "numero":105,
@@ -1157,7 +1155,7 @@
     "point":null,
     "date_de":"1967\/70",
     "decouvreurs":"Flerow ou Ghiorso",
-    "0":null
+    
   },
   {
     "numero":106,
@@ -1168,7 +1166,7 @@
     "point":null,
     "date_de":1974,
     "decouvreurs":"Oganessian\u00a0ou Ghiorso",
-    "0":null
+    
   },
   {
     "numero":107,
@@ -1179,7 +1177,7 @@
     "point":null,
     "date_de":"1976\/81",
     "decouvreurs":"Oganessian\u00a0ou Munzenberg",
-    "0":null
+    
   },
   {
     "numero":108,
@@ -1190,7 +1188,7 @@
     "point":null,
     "date_de":1984,
     "decouvreurs":"Munzenberg,\u00a0Centre de recherche sur les ions lourds",
-    "0":null
+    
   },
   {
     "numero":109,
@@ -1201,7 +1199,7 @@
     "point":null,
     "date_de":1982,
     "decouvreurs":"Munzenberg,\u00a0Centre de recherche sur les ions lourds",
-    "0":null
+   
   },
   {
     "numero":110,
@@ -1212,7 +1210,7 @@
     "point":null,
     "date_de":1994,
     "decouvreurs":"Hofmann,\u00a0Centre de recherche sur les ions lourds",
-    "0":null
+    
   },
   {
     "numero":111,
@@ -1223,7 +1221,7 @@
     "point":null,
     "date_de":1994,
     "decouvreurs":"Hofmann,\u00a0Centre de recherche sur les ions lourds",
-    "0":null
+    
   },
   {
     "numero":112,
@@ -1234,7 +1232,7 @@
     "point":null,
     "date_de":1996,
     "decouvreurs":"Hofmann,\u00a0Centre de recherche sur les ions lourds",
-    "0":null
+    
   },
   {
     "numero":113,
@@ -1245,7 +1243,7 @@
     "point":"1 130\u00b0C",
     "date_de":2004,
     "decouvreurs":"Morita,\u00a0RIKEN",
-    "0":null
+    
   },
   {
     "numero":114,
@@ -1256,7 +1254,7 @@
     "point":null,
     "date_de":2004,
     "decouvreurs":"Oganessian,\u00a0Institut unifi\u00e9 de recherches nucl\u00e9aires",
-    "0":null
+    
   },
   {
     "numero":115,
@@ -1267,7 +1265,7 @@
     "point":null,
     "date_de":2010,
     "decouvreurs":"Oganessian,\u00a0Laboratoire national de Lawrence Livermore",
-    "0":null
+    
   },
   {
     "numero":null,
@@ -1278,7 +1276,7 @@
     "point":null,
     "date_de":null,
     "decouvreurs":"et\u00a0Institut unifi\u00e9 de recherches nucl\u00e9aires",
-    "0":null
+    
   },
   {
     "numero":116,
@@ -1289,7 +1287,7 @@
     "point":null,
     "date_de":2004,
     "decouvreurs":"Oganessian,\u00a0Institut unifi\u00e9 de recherches nucl\u00e9aires",
-    "0":null
+ 
   },
   {
     "numero":117,
@@ -1300,7 +1298,7 @@
     "point":null,
     "date_de":2010,
     "decouvreurs":"Oganessian, Flerov Laboratory of Nuclear Reactions (FLNR) de l'Institut unifi\u00e9 de recherches nucl\u00e9aires",
-    "0":null
+    
   },
   {
     "numero":118,
@@ -1311,7 +1309,7 @@
     "point":null,
     "date_de":2006,
     "decouvreurs":"Oganessian,\u00a0Laboratoire national de Lawrence Livermore",
-    "0":null
+    
   },
   ]
  }
