@@ -2,67 +2,61 @@
   "count":6,
   "atomes":[
   {
-    "numero":1,
-    "nom":"Hydrog\u00e8ne",
+    "numero":"1",
+    "nom":"Hydrogene",
     "symbole":"H",
-    "masse_atomique":"1,00794\u00a0g\u00b7mol-1",
-    "masse_volumique":"0,084\u00a0g\u00b7l-1",
-    "point":"\u2212252,9\u00a0\u00b0C",
-    "date_de":1766,
+    "masse_atomique":"1,007 g/mol",
+    "masse_volumique":"0,084 g/l ",
+    "date_de":"1766",
     "decouvreurs":"Cavendish"
     
   },
   {
-    "numero":2,
-    "nom":"H\u00e9lium",
+    "numero":"2",
+    "nom":"Helium",
     "symbole":"He",
-    "masse_atomique":"4,002602\u00a0g\u00b7mol-1",
-    "masse_volumique":"0,17\u00a0g\u00b7l-1",
-    "point":"\u2212268,9\u00a0\u00b0C",
-    "date_de":1895,
-    "decouvreurs":"Ramsay\u00a0et\u00a0Cleve"
+    "masse_atomique":"4,002602 g/mol",
+    "masse_volumique":"0,17 g/l", 
+    "date_de":"1895",
+    "decouvreurs":"Ramsay et Cleve"
  
   },
   {
-    "numero":3,
+    "numero":"3",
     "nom":"Lithium",
     "symbole":"Li",
-    "masse_atomique":"6,941\u00a0g\u00b7mol-1",
-    "masse_volumique":"0,53\u00a0g\u00b7cm-3",
-    "point":"1\u00a0317\u00a0\u00b0C",
-    "date_de":1817,
+    "masse_atomique":"6,941 g/mol",
+    "masse_volumique":"0,53 g/l",
+    "date_de":"1817",
     "decouvreurs":"Arfvedson"
    
   },
   {
-    "numero":4,
-    "nom":"B\u00e9ryllium",
+    "numero":"4",
+    "nom":"Beryllium",
     "symbole":"Be",
-    "masse_atomique":"9,012182\u00a0g\u00b7mol-1",
-    "masse_volumique":"1,85\u00a0g\u00b7cm-3",
-    "point":"2\u00a0970\u00a0\u00b0C",
-    "date_de":1797,
+    "masse_atomique":"9,012182 g/mol",
+    "masse_volumique":"1,85g/l",
+    "date_de":"1797",
     "decouvreurs":"Vauquelin"
   
   },
   {
-    "numero":5,
+    "numero":"5",
     "nom":"Bore",
     "symbole":"B",
-    "masse_atomique":"10,811\u00a0g\u00b7mol-1",
-    "masse_volumique":"2,46\u00a0g\u00b7cm-3",
-    "point":"2\u00a0550\u00a0\u00b0C",
-    "date_de":1808,
-    "decouvreurs":"Davy\u00a0et\u00a0Gay-Lussac"
+    "masse_atomique":"10,811 g/mol",
+    "masse_volumique":"2,46\ g/l",
+    "date_de":"1808",
+    "decouvreurs":"Davy et Gay-Lussac"
     
   },
   {
-    "numero":6,
+    "numero":"6",
     "nom":"Carbone",
     "symbole":"C",
-    "masse_atomique":"12,011\u00a0g\u00b7mol-1",
-    "masse_volumique":"3,51\u00a0g\u00b7cm-3",
-    "point":"4\u00a0827\u00a0\u00b0C",
+    "masse_atomique":"12,011 g/mol",
+    "masse_volumique":"3,51 g/l",
     "date_de":"inconnue",
     "decouvreurs":"inconnu"
    
